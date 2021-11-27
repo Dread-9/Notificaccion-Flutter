@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_2/screen/message.dart';
 
 class home extends StatelessWidget {
   @override
@@ -7,8 +8,15 @@ class home extends StatelessWidget {
       appBar: AppBar(
         title: const Text('home'),
       ),
-      body: const Center(
-        child: Text('home'),
+      body: Center(
+        child: RaisedButton(
+            color: Colors.red,
+            textColor: Colors.white,
+            child: Text("Mensajes actuales"),
+            onPressed: () {
+              Navigator.push(
+                  context, MaterialPageRoute(builder: (context) => message()));
+            }),
       ),
     );
   }

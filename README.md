@@ -2,7 +2,7 @@
 
 Notificaccion .
 
-## Getting Started
+## Comienzo de la aplicacion
 
 This project is a starting point for a Flutter application.
 

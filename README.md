@@ -49,6 +49,9 @@ cd android && ./gradlew signingReport
 await Firebase.initializeApp();
     token = await FirebaseMessaging.instance.getToken();
     print('Token :$token');
+     
+````
+````
 
 ## Author
 Dread/Berdrago

@@ -8,7 +8,7 @@ class message extends StatelessWidget {
         title: const Text('message'),
       ),
       body: const Center(
-        child: Text('message'),
+        child: Text(''),
       ),
     );
   }

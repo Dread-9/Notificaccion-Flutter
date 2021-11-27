@@ -2,30 +2,19 @@
 
 
 # Requisitos
-Instalar node js
-Instalar Ionic 
-Instalar visual studios o Editor de codigo a preferencia 
+Visiaul Studios
+Android stuios
+Extencion de Dart y flutter
+
 
 ## Objetivos de la Aplicacion
-Crear aplición híbrida con framework ionic
+Crear aplición híbrida con Flutter
 Conectar aplicación con Firebase y generar notificación Push
 
 ## Proyecto Notificaccion Flutter 
 
 ````
-#--------------Dependencias---------------
-Visiaul Studios
-Android stuios
-extencion de Dart y flutter
-
-````
-````
-#--------------Dependencias---------------
-Descargar sdk de fluter y localizar en path
-
-````
-````
---------------Levantar servicio-------------
+#--------------Levantar servicio-------------
 Mediante emulador de android studios 
 ````
 ````

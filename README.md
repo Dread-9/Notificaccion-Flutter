@@ -1,8 +1,6 @@
-# Proyecto vue-ionic-firebase
-
-
+# Proyecto 
 # Requisitos
-Visiaul Studios
+Visual Studios
 Android stuios
 Extencion de Dart y flutter
 
